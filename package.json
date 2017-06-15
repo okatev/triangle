@@ -1,0 +1,17 @@
+{
+  "name": "triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab unit.js --output tests.html --coverage -r html"
+  },
+  "author": "Euegene Okatev",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "lab": "^14.0.1"
+  }
+}
